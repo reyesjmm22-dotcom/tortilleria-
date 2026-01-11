@@ -1,0 +1,5 @@
+{
+  "name": "TortiPOS - Sistema de Punto de Venta",
+  "description": "Un sistema integral de punto de venta para tortillerías con manejo de inventarios, créditos a clientes (fiado) y reportes financieros avanzados.",
+  "requestFramePermissions": []
+}
