@@ -1,0 +1,8 @@
+/* Minimal global styles */
+body { font-family: 'Inter', sans-serif; }
+
+.print-only { display: none; }
+@media print {
+  .no-print { display: none !important; }
+  .print-only { display: block !important; }
+}

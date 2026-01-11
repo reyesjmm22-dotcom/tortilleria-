@@ -1,0 +1,8 @@
+services:
+  - type: static
+    name: tortipos-static
+    env: static
+    branch: main
+    buildCommand: npm ci && npm run build
+    publishPath: dist
+    plan: free
